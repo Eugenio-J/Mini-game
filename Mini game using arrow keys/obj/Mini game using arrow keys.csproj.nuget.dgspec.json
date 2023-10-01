@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jeuge\\source\\repos\\Mini game using arrow keys\\Mini game using arrow keys\\Mini game using arrow keys.csproj": {}
+    "C:\\Users\\jeuge\\Desktop\\Mini game using arrow keys\\Mini game using arrow keys\\Mini game using arrow keys.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jeuge\\source\\repos\\Mini game using arrow keys\\Mini game using arrow keys\\Mini game using arrow keys.csproj": {
+    "C:\\Users\\jeuge\\Desktop\\Mini game using arrow keys\\Mini game using arrow keys\\Mini game using arrow keys.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jeuge\\source\\repos\\Mini game using arrow keys\\Mini game using arrow keys\\Mini game using arrow keys.csproj",
+        "projectUniqueName": "C:\\Users\\jeuge\\Desktop\\Mini game using arrow keys\\Mini game using arrow keys\\Mini game using arrow keys.csproj",
         "projectName": "Mini game using arrow keys",
-        "projectPath": "C:\\Users\\jeuge\\source\\repos\\Mini game using arrow keys\\Mini game using arrow keys\\Mini game using arrow keys.csproj",
+        "projectPath": "C:\\Users\\jeuge\\Desktop\\Mini game using arrow keys\\Mini game using arrow keys\\Mini game using arrow keys.csproj",
         "packagesPath": "C:\\Users\\jeuge\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jeuge\\source\\repos\\Mini game using arrow keys\\Mini game using arrow keys\\obj\\",
+        "outputPath": "C:\\Users\\jeuge\\Desktop\\Mini game using arrow keys\\Mini game using arrow keys\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
