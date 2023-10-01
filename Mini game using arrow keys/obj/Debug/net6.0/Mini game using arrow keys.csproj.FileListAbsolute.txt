@@ -1,0 +1,14 @@
+C:\Users\jeuge\source\repos\Mini game using arrow keys\Mini game using arrow keys\bin\Debug\net6.0\Mini game using arrow keys.exe
+C:\Users\jeuge\source\repos\Mini game using arrow keys\Mini game using arrow keys\bin\Debug\net6.0\Mini game using arrow keys.deps.json
+C:\Users\jeuge\source\repos\Mini game using arrow keys\Mini game using arrow keys\bin\Debug\net6.0\Mini game using arrow keys.runtimeconfig.json
+C:\Users\jeuge\source\repos\Mini game using arrow keys\Mini game using arrow keys\bin\Debug\net6.0\Mini game using arrow keys.dll
+C:\Users\jeuge\source\repos\Mini game using arrow keys\Mini game using arrow keys\bin\Debug\net6.0\Mini game using arrow keys.pdb
+C:\Users\jeuge\source\repos\Mini game using arrow keys\Mini game using arrow keys\obj\Debug\net6.0\Mini game using arrow keys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeuge\source\repos\Mini game using arrow keys\Mini game using arrow keys\obj\Debug\net6.0\Mini game using arrow keys.AssemblyInfoInputs.cache
+C:\Users\jeuge\source\repos\Mini game using arrow keys\Mini game using arrow keys\obj\Debug\net6.0\Mini game using arrow keys.AssemblyInfo.cs
+C:\Users\jeuge\source\repos\Mini game using arrow keys\Mini game using arrow keys\obj\Debug\net6.0\Mini game using arrow keys.csproj.CoreCompileInputs.cache
+C:\Users\jeuge\source\repos\Mini game using arrow keys\Mini game using arrow keys\obj\Debug\net6.0\Mini game using arrow keys.dll
+C:\Users\jeuge\source\repos\Mini game using arrow keys\Mini game using arrow keys\obj\Debug\net6.0\refint\Mini game using arrow keys.dll
+C:\Users\jeuge\source\repos\Mini game using arrow keys\Mini game using arrow keys\obj\Debug\net6.0\Mini game using arrow keys.pdb
+C:\Users\jeuge\source\repos\Mini game using arrow keys\Mini game using arrow keys\obj\Debug\net6.0\Mini game using arrow keys.genruntimeconfig.cache
+C:\Users\jeuge\source\repos\Mini game using arrow keys\Mini game using arrow keys\obj\Debug\net6.0\ref\Mini game using arrow keys.dll
